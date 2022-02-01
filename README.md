@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaveAero
 - 👀 I’m interested in data wrangling of airworthiness related documents
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R & Python
 - 💞️ I’m looking to collaborate on automating MPD applicabilities
 - 📫 How to reach me ...
 
